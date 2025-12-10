@@ -1,3 +1,6 @@
+## this file contains structure the user will write the entire prompt
+## here there is no such template avalible 
+
 from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv
 import streamlit as st
