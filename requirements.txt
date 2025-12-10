@@ -1,0 +1,17 @@
+## langchain and its core 
+langchain
+langchain-core
+
+## google gemini integration
+langchain-google-genai
+google-generativeai
+
+##streamlit for ui 
+streamlit
+
+## environent variable management 
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
